@@ -1,0 +1,10 @@
+train:
+  batch_size: 32
+  epochs: 3
+  learning_rate: 0.001
+  factor: 0.1
+  patience: 5
+  accelerator: "gpu"
+  devices: 1
+data:
+  num_classes: 29

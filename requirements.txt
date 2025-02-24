@@ -1,0 +1,9 @@
+numpy
+matplotlib
+opencv-python
+pillow
+torch
+torchvision
+lightning
+ml-collections
+loguru
